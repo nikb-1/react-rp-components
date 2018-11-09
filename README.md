@@ -1,3 +1,5 @@
+[![NPM Version](https://img.shields.io/badge/npm-v1.0.0-blue.svg)](https://www.npmjs.com/package/react-rp-components) [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/l-u-l-z/react-rp-components/blob/master/LICENSE)
+
 # react-rp-components
 ----
 Re-usable Render Prop Components for React
